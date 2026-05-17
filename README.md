@@ -14,15 +14,21 @@
     <br />
     <a href="https://github.com/lordchunder/rustsignpainter-app">Download for Free</a>
     •
-    <a href="https://www.awaiteddevelopments.com/contact">Report a Bug</a>
+    <a href="https://github.com/lordchunder/rustsignpainter-app/issues/new?template=bug_report.md">Report a Bug</a>
     •
-    <a href="https://www.awaiteddevelopments.com/contact">Request a Feature</a>
-  </p>
+    <a href="https://github.com/lordchunder/rustsignpainter-app/issues/new?template=feature_request.md">Request a Feature</a>
+   <br />
+   <a href="https://www.awaiteddevelopments.com/contact">Contact</a>
+   •
+   <a href="mailto:support@awaiteddevelopments.com">Email Support</a>
+</p>
 
 ![GitHub Release](https://img.shields.io/github/v/release/lordchunder/rustsignpainter-app?display_name=release)
 ![GitHub Repo stars](https://img.shields.io/github/stars/lordchunder/rustsignpainter-app)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/lordchunder/rustsignpainter-app/total)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/lordchunder/rustsignpainter-app)
+
+
 </div>
 
 
