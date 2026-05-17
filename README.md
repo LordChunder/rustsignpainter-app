@@ -1,15 +1,46 @@
-# Rust Sign Painter
+<img src="assets/icon.png" alt="A floating image" style="float: left; margin-right: 15px;">
 
+# Rust Sign Painter 
 **Professional automation tool for painting signs in the survival game Rust.**
-
 Load any image → smart color quantization → optimized brush strokes → fully automatic high-quality painting.
+
+---
+
+## Download & Installation
+
+1. Navigate to the [Releases](https://github.com/LordChunder/rustsignpainter-app/releases) tab on the right side of this GitHub page.
+2. Under the **Latest** release, download the `rsp.exe` file.
+3. Run the `.exe` (No installation required).
+
+*Note: Windows Defender or other antivirus software may flag the file because it uses mouse/keyboard automation. This is normal behavior for macro tools.*
+
+---
+
+## Free vs. Pro Tier
+
+Rust Sign Painter is free to download and use forever, but the free tier has built-in limitations. Upgrading to Pro unlocks the full potential of the rendering engine for highly detailed, photorealistic signs.
+
+| Feature            | Free Tier      | Pro Tier             |
+|:-------------------|:---------------|:---------------------|
+| **Max Colors**     | Up to 8 Colors | **Up to 64 Colors**  |
+| **Hardware Delay** | Capped at 50ms | **Unlimited (0ms)**  |
+| **Color Delay**    | Capped at 0.5s | **Unlimited (0.0s)** |
+| **Updates**        | Basic          | **Priority**         |
+
+### How to Upgrade to Pro
+1. Purchase a lifetime license key at **[awaiteddevelopments.com/rustsignpainter](https://www.awaiteddevelopments.com/rustsignpainter)**.
+2. Open the application.
+3. Click **Options → 🔑 Activate License...** in the top menu bar.
+4. Enter your email and license key to instantly unlock Pro features.
+
+*Note: Licenses are limited to one active device per user and can be transferred. Multiple devices simultaneously require separate licenses.*
 
 ---
 
 ## Features
 
 - **Broad Image Support**: PNG, JPG, JPEG, BMP, GIF, WebP, TIFF
-- **Fast Quantization**: High-quality median-cut algorithm (up to 64 colors)
+- **Fast Quantization**: High-quality median-cut algorithm
 - **Optional Dithering**: Floyd-Steinberg for smooth gradients
 - **Advanced Path Optimization**: Run-length merging + boustrophedon scanning
 - **Brush-Aware Painting**: Background-first logic with separate detail passes
@@ -26,7 +57,7 @@ Load any image → smart color quantization → optimized brush strokes → full
 ### 1. Load & Preview
 - Click the preview area to load your image
 - Select your sign type/size
-- Choose a number of colors (8–16 recommended)
+- Choose your desired number of colors
 - Enable dithering if needed
 - Click **Preview Quantization**
 
@@ -42,17 +73,15 @@ Open Rust’s sign editor, then:
 - Click **Generate Plan**
 - Click **Start Painting** and switch to Rust during the countdown
 
-**Pro Tip**: Brush radius 5–6 with step 5 offers the best speed/quality balance.
-
 ---
 
 ## Controls
 
-| Action              | Hotkey / Button               |
-|---------------------|-------------------------------|
-| Pause / Resume      | **CTRL-1**                    |
-| Emergency Stop      | **CTRL-2** (hold)             |
-| Global Failsafe     | Move mouse to top-left corner |
+| Action          | Hotkey / Button               |
+|-----------------|-------------------------------|
+| Pause / Resume  | **CTRL-1**                    |
+| Emergency Stop  | **CTRL-2** (hold)             |
+| Global Failsafe | Move mouse to top-left corner |
 
 ---
 
@@ -66,10 +95,10 @@ All rights reserved. Unauthorized copying, modification, or redistribution is pr
 ## Disclaimer & Safety
 
 This tool uses mouse and keyboard automation **only after you explicitly start painting**.  
-Always test on low-value signs first. Antivirus software may flag automation tools — this is normal behavior.
-Facepunch has commented that sign painting tools will not result in anti-cheat bans, though use at your own risk. 
+Always test on low-value signs first. Facepunch has commented that sign painting tools will not result in anti-cheat bans, though you use this at your own risk.
+
 ---
 
-**Built for the Rust community** ❤️  
+**Built for the Rust community** ❤️
 
 Awaited Developments
