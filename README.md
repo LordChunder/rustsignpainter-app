@@ -64,8 +64,7 @@ unlocks the full potential of the rendering engine for highly detailed, photorea
 
 ### How to Upgrade to Pro
 
-1. Purchase a lifetime license key at *
-   *[awaiteddevelopments.com/rustsignpainter](https://www.awaiteddevelopments.com/rustsignpainter)**.
+1. Purchase a lifetime license key at **[awaiteddevelopments.com/rustsignpainter](https://www.awaiteddevelopments.com/rustsignpainter)**.
 2. Open the application.
 3. Click **Options → 🔑 Activate License...** in the top menu bar.
 4. Enter your email and license key to instantly unlock Pro features.
