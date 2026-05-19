@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center ">
   <a  href="https://github.com/lordchunder/rustsignpainter-app">
-    <img src="assets/icon.png" alt="Logo" width="128" height="128">
+     <img src="https://repository-images.githubusercontent.com/1240215351/e927fd04-2f52-40ae-a1b9-6a9fc3d50da4" alt="Logo" width="428" height="214">
   </a>
 
 <h1 style="font-family: monospace; margin: 0">RUST SIGN PAINTER</h1>
@@ -146,6 +146,10 @@ bans, though you use this at your own risk.
 
 ---
 
-**Built for the Rust community** ❤️
+  <a  href="https://github.com/lordchunder/rustsignpainter-app">
+     <img src="assets/icon.png" alt="Logo" width="128" height="128">
+  </a>
+  
+  **Built for the Rust community** ❤️
 
 Awaited Developments
