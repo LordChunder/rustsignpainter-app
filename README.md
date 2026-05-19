@@ -12,7 +12,7 @@
     <br />
     <a href="https://github.com/lordchunder/rustsignpainter-app"><strong>Documentation</strong></a> • <a href="https://github.com/LordChunder/rustsignpainter-app/releases">Download for Free</a>
     <br />
-    <a href="https://github.com/LordChunder/rustsignpainter-app/issues/new?template=bug_report.md">Report a Bug</a> • <a href="https://github.com/LordChunder/rustsignpainter-app/issues/new?template=feature_request.md">Request a Feature</a> • <a href="https://www.awaiteddevelopments.com/contact">Contact</a> • <a href="mailto:support@awaiteddevelopments.com">Email Support</a>
+    <a href="https://github.com/LordChunder/rustsignpainter-app/issues/new?template=bug_report.md">Report a Bug</a> • <a href="https://github.com/LordChunder/rustsignpainter-app/issues/new?template=feature_request.md">Request a Feature</a> • <a href="https://github.com/LordChunder/rustsignpainter-app/issues">Discussion</a>  •  <a href="https://www.awaiteddevelopments.com/contact">Support</a>
     <br/>
     <br/>
     <a href="https://www.awaiteddevelopments.com/rustsignpainter">awaiteddevelopments.com/rustsignpainter</a>
