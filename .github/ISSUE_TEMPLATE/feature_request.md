@@ -1,19 +1,8 @@
 ---
-name: Feature request
-about: Suggest an idea for Rust Sign Painter
-title: Featire Request
-labels: ''
-assignees: ''
 
----
-
----
 name: ✨ Feature Request
 about: Suggest a new idea or improvement for Rust Sign Painter
-title: '[Feature] '
-labels: enhancement
-assignees: ''
-
+title: '[Feature Request]'
 ---
 
 **Is your feature request related to a problem or just an addition? Please describe.**
