@@ -10,20 +10,12 @@
     Load any image → smart color quantization → optimized brush strokes → fully automatic high-quality painting.
     <br />
     <br />
-    <a href="https://github.com/lordchunder/rustsignpainter-app"><strong>Check the Documentation »</strong></a>
+    <a href="https://github.com/lordchunder/rustsignpainter-app"><strong>Documentation</strong></a> • <a href="https://github.com/LordChunder/rustsignpainter-app/releases">Download for Free</a>
     <br />
-    <a href="https://github.com/lordchunder/rustsignpainter-app">Download for Free</a>
-    •
-    <a href="https://github.com/lordchunder/rustsignpainter-app/issues/new?template=bug_report.md">Report a Bug</a>
-    •
-    <a href="https://github.com/lordchunder/rustsignpainter-app/issues/new?template=feature_request.md">Request a Feature</a>
-   <br />
-   <a href="https://www.awaiteddevelopments.com/contact">Contact</a>
-   •
-   <a href="mailto:support@awaiteddevelopments.com">Email Support</a>
-   <br/>
-<br/>
-       <a href="https://www.awaiteddevelopments.com/rustsignpainter">awaiteddevelopments.com/rustsignpainter</a>
+    <a href="https://github.com/LordChunder/rustsignpainter-app/issues/new?template=bug_report.md">Report a Bug</a> • <a href="https://github.com/LordChunder/rustsignpainter-app/issues/new?template=feature_request.md">Request a Feature</a> • <a href="https://www.awaiteddevelopments.com/contact">Contact</a> • <a href="mailto:support@awaiteddevelopments.com">Email Support</a>
+    <br/>
+    <br/>
+    <a href="https://www.awaiteddevelopments.com/rustsignpainter">awaiteddevelopments.com/rustsignpainter</a>
 </p>
 
 [<img alt="GitHub Version" src="https://img.shields.io/github/v/release/lordchunder/rustsignpainter-app?display_name=release"/>](https://github.com/LordChunder/rustsignpainter-app/releases)
@@ -33,42 +25,11 @@
 
 </div>
 
-
 ---
 
-## Download & Installation
-
-1. Navigate to the [Releases](https://github.com/LordChunder/rustsignpainter-app/releases) tab on the right side of this
-   GitHub page.
-2. Under the **Latest** release, download the `rsp.exe` file.
-3. Run the `.exe` (No installation required).
-
-*Note: Windows Defender or other antivirus software may flag the file because it uses mouse/keyboard automation. This is
-normal behavior for macro tools.*
-
----
-
-## Free vs. Pro Tier
-
-Rust Sign Painter is free to download and use forever, but the free tier has built-in limitations. Upgrading to Pro
-unlocks the full potential of the rendering engine for highly detailed, photorealistic signs.
-
-| Feature            | Free Tier      | Pro Tier             |
-|:-------------------|:---------------|:---------------------|
-| **Max Colors**     | Up to 8 Colors | **Up to 64 Colors**  |
-| **Hardware Delay** | Capped at 50ms | **Unlimited (0ms)**  |
-| **Color Delay**    | Capped at 0.5s | **Unlimited (0.0s)** |
-| **Updates**        | Basic          | **Priority**         |
-
-### How to Upgrade to Pro
-
-1. Purchase a lifetime license key at **[awaiteddevelopments.com/rustsignpainter](https://www.awaiteddevelopments.com/rustsignpainter)**.
-2. Open the application.
-3. Click **Options → 🔑 Activate License...** in the top menu bar.
-4. Enter your email and license key to instantly unlock Pro features.
-
-*Note: Licenses are limited to one active device per user and can be transferred. Multiple devices simultaneously
-require separate licenses.*
+<p align="center">
+  <img src="assets/demo_animation.gif" alt="Animated demo (coming soon)" height="256" />
+</p>
 
 ---
 
@@ -84,6 +45,52 @@ require separate licenses.*
 - **Live Progress HUD**: Real-time painting status
 - **Keybinds**: CTRL-1 pause/resume, hold CTRL-2 emergency stop, top-left failsafe stop (move mouse)
 - **Persistent Configuration**: Automatically saves all screen positions
+
+---
+
+## Download & Installation
+
+1. Navigate to the [Releases](https://github.com/LordChunder/rustsignpainter-app/releases) tab on the right side of this
+   GitHub page.
+2. Under the **Latest** release, download the `rsp.exe` file.
+3. Run the `.exe` (No installation required).
+
+*Note: Windows Defender or other antivirus software may flag the file because it uses mouse/keyboard automation. This is
+normal behavior for macro tools.*
+
+---
+
+## Screenshots
+
+<div style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center; align-items:flex-start">
+  <a href="assets/screenshot_1.webp"><img src="assets/screenshot_1.webp" alt="Screenshot: Load & Preview" width="256"/></a>
+  <a href="assets/screenshot_2.webp"><img src="assets/screenshot_2.webp" alt="Screenshot: Configuration & Palette" width="256"/></a>
+  <a href="assets/screenshot_3.webp"><img src="assets/screenshot_3.webp" alt="Screenshot: Painting HUD & Progress" width="256"/></a>
+</div>
+
+---
+
+## Rust Sign Painter Pro
+
+Rust Sign Painter is fully functional in the free tier. An optional Pro tier is available for power users who need
+additional capabilities (more colors, lower delays, priority updates). Pro is not required to use the app.
+
+| Feature            | Free Tier      | Pro Tier             |
+|:-------------------|:---------------|:---------------------|
+| **Max Colors**     | Up to 8 Colors | **Up to 64 Colors**  |
+| **Hardware Delay** | Capped at 50ms | **Unlimited (0ms)**  |
+| **Color Delay**    | Capped at 0.5s | **Unlimited (0.0s)** |
+| **Updates**        | Basic          | **Priority**         |
+
+### How to activate Pro 
+
+1. Purchase a lifetime license key at **[awaiteddevelopments.com/rustsignpainter](https://www.awaiteddevelopments.com/rustsignpainter)**.
+2. Open the application.
+3. Click **Options → 🔑 Activate License...** in the top menu bar.
+4. Enter your email and license key to unlock Pro features.
+
+*Note: Licenses are limited to one active device per user and can be transferred. Multiple devices simultaneously
+require separate licenses.*
 
 ---
 
