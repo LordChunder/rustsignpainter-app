@@ -10,18 +10,18 @@
     Load any image → smart color quantization → optimized brush strokes → fully automatic high-quality painting.
     <br />
     <br />
-    <a href="https://github.com/lordchunder/rustsignpainter-app"><strong>Documentation</strong></a> • <a href="https://github.com/LordChunder/rustsignpainter-app/releases">Download for Free</a>
+    <a href="https://github.com/lordchunder/rustsignpainter-app"><strong>Documentation</strong></a> • <a href="https://github.com/AwaitedDevelopments/rustsignpainter-app/releases">Download for Free</a>
     <br />
-    <a href="https://github.com/LordChunder/rustsignpainter-app/issues/new?template=bug_report.md">Report a Bug</a> • <a href="https://github.com/LordChunder/rustsignpainter-app/issues/new?template=feature_request.md">Request a Feature</a> • <a href="https://github.com/LordChunder/rustsignpainter-app/issues">Discussion</a>  •  <a href="https://www.awaiteddevelopments.com/contact">Support</a>
+    <a href="https://github.com/AwaitedDevelopments/rustsignpainter-app/issues/new?template=bug_report.md">Report a Bug</a> • <a href="https://github.com/AwaitedDevelopments/rustsignpainter-app/issues/new?template=feature_request.md">Request a Feature</a> • <a href="https://github.com/AwaitedDevelopments/rustsignpainter-app/issues">Discussion</a>  •  <a href="https://www.awaiteddevelopments.com/contact">Support</a>
     <br/>
     <br/>
     <a href="https://www.awaiteddevelopments.com/rustsignpainter">awaiteddevelopments.com/rustsignpainter</a>
 </p>
 
-[<img alt="GitHub Version" src="https://img.shields.io/github/v/release/lordchunder/rustsignpainter-app?display_name=release"/>](https://github.com/LordChunder/rustsignpainter-app/releases)
-[<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lordchunder/rustsignpainter-app"/>](https://github.com/LordChunder/rustsignpainter-app/releases)
-[<img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/lordchunder/rustsignpainter-app/total"/>](https://github.com/LordChunder/rustsignpainter-app/releases)
-[<img alt="GitHub Issues" src="https://img.shields.io/github/issues/lordchunder/rustsignpainter-app"/>](https://github.com/LordChunder/rustsignpainter-app/issues)
+[<img alt="GitHub Version" src="https://img.shields.io/github/v/release/AwaitedDevelopments/rustsignpainter-app?display_name=release"/>](https://github.com/AwaitedDevelopments/rustsignpainter-app/releases)
+[<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AwaitedDevelopments/rustsignpainter-app"/>](https://github.com/AwaitedDevelopments/rustsignpainter-app/releases)
+[<img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/AwaitedDevelopments/rustsignpainter-app/total"/>](https://github.com/AwaitedDevelopments/rustsignpainter-app/releases)
+[<img alt="GitHub Issues" src="https://img.shields.io/github/issues/AwaitedDevelopments/rustsignpainter-app"/>](https://github.com/AwaitedDevelopments/rustsignpainter-app/issues)
 
 </div>
 
@@ -31,7 +31,6 @@
   <img src="assets/demo_animation.gif" alt="Animated demo (coming soon)" height="256" />
 </p>
 
----
 
 ## Features
 
@@ -46,7 +45,6 @@
 - **Keybinds**: CTRL-1 pause/resume, hold CTRL-2 emergency stop, top-left failsafe stop (move mouse)
 - **Persistent Configuration**: Automatically saves all screen positions
 
----
 
 ## Download & Installation
 
@@ -58,7 +56,6 @@
 *Note: Windows Defender or other antivirus software may flag the file because it uses mouse/keyboard automation. This is
 normal behavior for macro tools.*
 
----
 
 ## Screenshots
 
@@ -68,7 +65,6 @@ normal behavior for macro tools.*
   <a href="assets/screenshot_3.webp"><img src="assets/screenshot_3.webp" alt="Screenshot: Painting HUD & Progress" width="256"/></a>
 </div>
 
----
 
 ## Rust Sign Painter Pro
 
@@ -92,7 +88,6 @@ additional capabilities (more colors, lower delays, priority updates). Pro is no
 *Note: Licenses are limited to one active device per user and can be transferred. Multiple devices simultaneously
 require separate licenses.*
 
----
 
 ## Quick Start
 
@@ -119,7 +114,7 @@ Open Rust’s sign editor, then:
 - Click **Generate Plan**
 - Click **Start Painting** and switch to Rust during the countdown
 
----
+
 
 ## Controls
 
@@ -129,14 +124,14 @@ Open Rust’s sign editor, then:
 | Emergency Stop  | **CTRL-2** (hold)             |
 | Global Failsafe | Move mouse to top-left corner |
 
----
+
 
 ## Important Notice
 
 This software is **not open source**. The repository is public for distribution and updates only.  
 All rights reserved. Unauthorized copying, modification, or redistribution is prohibited.
 
----
+
 
 ## Disclaimer & Safety
 
@@ -144,7 +139,7 @@ This tool uses mouse and keyboard automation **only after you explicitly start p
 Always test on low-value signs first. Facepunch has commented that sign painting tools will not result in anti-cheat
 bans, though you use this at your own risk.
 
----
+
 
   <a  href="https://github.com/lordchunder/rustsignpainter-app">
      <img src="assets/icon.png" alt="Logo" width="128" height="128">
